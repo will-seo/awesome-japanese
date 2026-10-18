@@ -136,6 +136,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
   - [Kana SH](https://kana.rezoleo.fr) - Practice Hiragana in a terminal fashion ([sources](https://github.com/benoitlx/kanash)) :computer:.
   - [Keiko](https://keiko-jp.com) - Browser typing tutor: type kana, kanji, and JLPT N5–N3 sentences; switchable romaji hints :computer: :moneybag:.
   - [Rail Typing](https://railtyping.com) - Practice Japanese station names through railway-themed typing races :computer:.
+  - [Hiragana keyboard](https://languagekeyboard.net/japanese) - Browser based keyboard for typing in Hirahana and Katakana without needing to install an IME.
 - Katakana
   - [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Katakana lesson.
   - [Learn Katakana in 1 Hour](https://youtu.be/s6DKRgtVLGA) - Katakana video lesson.
